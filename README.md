@@ -1,5 +1,5 @@
 # PowerBi-Sales-Dashboard
-Dashboard 1: Superstore Sales Analysis
+Dashboard: Superstore Sales Analysis
 An interactive Power BI dashboard analyzing retail sales performance across products, customer segments, and regions.
 ## Key Metrics: 
 Total Sales 2.30M
