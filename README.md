@@ -4,7 +4,7 @@
 
 An interactive Power BI dashboard analyzing retail sales performance across products, customer segments, and regions.
 
-![Superstore Sales Dashboard](IMG_6280.jpeg)
+![Superstore Sales Dashboard](IMG_6281.jpeg)
 
 ### Key Metrics
 - **Total Sales:** 2.30M
@@ -30,7 +30,7 @@ An interactive Power BI dashboard analyzing retail sales performance across prod
 
 A Power BI dashboard tracking beverage revenue by month, retailer, and state, with brand slicers (Coca-Cola, Dasani, Diet Coke, Fanta, Powerade, Sprite).
 
-![Beverage Sales Dashboard](IMG_6281.jpeg)
+![Beverage Sales Dashboard](IMG_6280.jpeg)
 
 ### Key Metrics
 - **Total Revenue:** $8.2M
